@@ -1,0 +1,100 @@
+trip_number,time_in,time_out,town_to,town_from
+7042,2/13/2021,9/4/2021,Três Rios,Olovyannaya
+7857,8/29/2021,5/22/2021,Xom Tan Long,‘Aşīrah ash Shamālīyah
+0675,9/29/2021,6/24/2021,Paritjunus,Plumtree
+8884,9/20/2021,8/15/2021,Lingqian,Montfort-sur-Meu
+5501,1/28/2021,12/18/2020,Changchuan,El Cocuy
+2509,2/12/2021,9/24/2021,Batanamang,Pulangbato
+1214,10/23/2020,9/12/2021,Baculongan,Xinchang
+1349,3/29/2021,6/22/2021,Xishaping,Trinidad
+2754,1/26/2021,4/8/2021,Yandian,Rudna
+0909,5/28/2021,3/13/2021,Vila Velha de Ródão,Mstsislaw
+7917,12/31/2020,3/20/2021,Zhendong,Lameira
+0211,11/26/2020,9/6/2021,São Joaquim da Barra,Bastia
+7694,10/17/2020,9/19/2021,Liborina,Pedro Leopoldo
+1625,5/29/2021,11/17/2020,União da Vitória,Ljungsbro
+7462,3/23/2021,5/9/2021,Bahorí,Chao
+1265,6/27/2021,10/9/2021,Kasreman,Jelat
+0269,6/15/2021,11/4/2020,Lurut,Petrivka
+2094,4/28/2021,1/30/2021,Leitões,Tepusteca
+6829,3/2/2021,10/21/2020,Rahayu,Yinghua
+2140,3/11/2021,4/10/2021,Haylaastay,Cutral-Có
+7247,7/7/2021,4/16/2021,Jiuhe,Nova Odessa
+0214,10/25/2020,1/2/2021,Nossebro,Kotovo
+5842,12/19/2020,9/26/2021,Nadi,Padilla
+4510,8/5/2021,12/19/2020,Castelo,Auxerre
+5931,11/7/2020,8/10/2021,Puricay,Kore
+5474,11/17/2020,6/6/2021,Novo Selo,Caminauit
+3105,8/30/2021,8/18/2021,Pandat,Shimada
+7196,5/21/2021,7/14/2021,Dunyāpur,Bolondrón
+4639,11/1/2020,6/12/2021,Sumberkindagan,Nový Malín
+9834,4/19/2021,11/5/2020,Tomaszów Mazowiecki,Timiryazevskoye
+3828,11/23/2020,3/24/2021,Lanos,Kiambu
+9779,6/22/2021,1/9/2021,Maqian,Shkotovo
+2096,3/15/2021,4/11/2021,Kashiwa,San Agustín Acasaguastlán
+9084,8/26/2021,12/21/2020,Kalpin,Lospalos
+7767,5/5/2021,12/24/2020,Kuching,Phutthaisong
+4996,5/22/2021,6/27/2021,Takaka,Nyimba
+4711,7/7/2021,1/19/2021,Houston,Al Bayḑā’
+7220,11/28/2020,8/5/2021,Kybartai,Krasnoyarka
+3389,9/29/2021,7/23/2021,Datong,Khorol
+7925,5/30/2021,9/6/2021,Rengasdengklok,Sembon
+0460,9/7/2021,7/21/2021,La Montañita,Dushanbe
+4555,5/14/2021,1/21/2021,Billère,Jinfeng
+0541,12/29/2020,2/28/2021,Luodian,Koźmin Wielkopolski
+2322,12/4/2020,4/26/2021,Naranjo,Zhushan
+3835,6/12/2021,3/27/2021,Albanel,Ueda
+8071,1/17/2021,12/27/2020,Mengmeng,Strasbourg
+3602,6/1/2021,4/7/2021,Yarīm,Linqu
+1451,11/28/2020,10/13/2020,Aghavnatun,Chuoyuan
+9314,7/30/2021,12/22/2020,Huddinge,Jiashi
+5545,4/19/2021,3/25/2021,Digne-les-Bains,Hucheng
+1153,9/19/2021,11/29/2020,Kertasari,Sukakerta
+2077,11/7/2020,6/5/2021,Curahklapa,Cachoeiro de Itapemirim
+3685,2/1/2021,11/18/2020,Arcos de Valdevez,Rungis
+4260,2/22/2021,8/23/2021,Xihe,Shaxi
+2404,12/24/2020,11/15/2020,Morez,Shengshan
+6680,10/8/2021,3/5/2021,Suleja,Västerås
+1174,1/24/2021,12/11/2020,Larvik,Rumenka
+9042,3/10/2021,8/3/2021,Penalva de Alva,Kadugannawa
+7953,10/29/2020,5/26/2021,Igreja,Shuangfeng
+2240,12/5/2020,3/7/2021,Sam Khok,Shangjiangxu
+2362,4/24/2021,2/24/2021,Krzeczów,Ivouani
+2562,10/28/2020,10/21/2020,Bilicenii Vechi,Hashtpar
+1675,9/23/2021,4/25/2021,Yiyang,Höganäs
+5819,10/5/2021,8/3/2021,Colca,Colonia Mauricio José Troche
+3005,5/6/2021,6/11/2021,Mengenkrajan,Reitoca
+5731,1/15/2021,1/27/2021,Quartier Militaire,Paso de Indios
+9727,3/23/2021,3/31/2021,Laojie,Īz̄eh
+7916,5/31/2021,4/28/2021,Miaoxi,Dopang
+8639,6/23/2021,3/12/2021,Richibucto,Brak
+8731,2/24/2021,11/14/2020,Kerva,Al Hufūf
+3395,12/8/2020,9/2/2021,Cầu Giấy,Ranua
+0248,2/12/2021,7/1/2021,Uvarovo,Kyra
+6762,12/5/2020,4/7/2021,Ārt Khwājah,Carcassonne
+8272,10/4/2021,12/13/2020,Dębno,Västra Frölunda
+3546,1/26/2021,7/20/2021,Bulahblangaro,Parse
+0559,11/29/2020,6/28/2021,Bélel,Otyniya
+0422,7/29/2021,9/1/2021,Émponas,Corupá
+5504,12/19/2020,6/28/2021,Mulan,Nong Khaem
+5296,1/2/2021,5/1/2021,Torres Vedras,Horad Smalyavichy
+2706,12/16/2020,5/29/2021,Juhut,Besukrejo
+9273,6/8/2021,11/7/2020,Petrolina,Jackson
+9123,3/16/2021,12/28/2020,Jiangpu,Zhaojia
+0625,1/9/2021,1/25/2021,Vitoria-Gasteiz,Xiaxindian
+1301,8/11/2021,7/13/2021,Huwei,Kariya
+9716,6/5/2021,11/13/2020,Jabłoń,Cachan
+0559,8/15/2021,4/12/2021,Butigui,Juhaynah
+6395,6/16/2021,6/10/2021,Kurashiki,Buurhakaba
+2456,9/8/2021,2/11/2021,Ježdovec,Sanxi
+6643,11/6/2020,10/4/2021,Komprachcice,Opatów
+6728,1/29/2021,12/6/2020,Bandeirantes,Kitui
+2829,11/24/2020,11/20/2020,Depok,Anabar
+8947,2/19/2021,11/12/2020,Chikwawa,Nagrak
+9956,9/14/2021,11/11/2020,Kireyevsk,Aygek
+7779,11/1/2020,12/25/2020,Ngarus,Ilha de Moçambique
+0746,1/21/2021,1/13/2021,Jiangqiao,Nowe Brzesko
+9372,1/17/2021,11/19/2020,Baranoa,Kostarea Satu
+7326,12/28/2020,6/11/2021,Ilihan,Independencia
+9002,11/3/2020,6/13/2021,G‘azalkent,Iúna
+3050,4/8/2021,5/26/2021,Tangzha,Itaguaí

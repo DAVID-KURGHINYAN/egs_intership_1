@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="homework.sql" type="DatabaseScript" editBeforeRun="true">
+    <script-file value="$PROJECT_DIR$/src/main/resources/sql.file" />
+    <script-mode>FILE</script-mode>
+    <data-source id="4e4ed595-da11-4698-879e-8dc93c8b5a9d" namespace="schema/&quot;egs_internship&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
